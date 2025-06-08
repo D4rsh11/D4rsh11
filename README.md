@@ -1,8 +1,10 @@
 <p align="center">Learning new things everyday (citation needed)🗣️</p>
 
-<a >
-  <img align="center" src="coding.gif" width="300">
-</a>
+<div style="display: flex; justify-content: center;">
+  <a>
+    <img src="coding.gif" width="300">
+  </a>
+</div>
 
 ###
 
