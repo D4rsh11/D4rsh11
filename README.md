@@ -1,10 +1,8 @@
 <p align="center">Learning new things everyday (citation needed)🗣️</p>
 
-<div style="display: flex; justify-content: center;">
-  <a>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RwOXg3aThvOXBwaWM2YjRyamh5OWFycnhhdTJybGxpYnUwNHN0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9GIE4bg4EV7UYFeP5B/giphy.gif" width="300">
-  </a>
-</div>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RwOXg3aThvOXBwaWM2YjRyamh5OWFycnhhdTJybGxpYnUwNHN0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9GIE4bg4EV7UYFeP5B/giphy.gif" width="300">
+</p>
 
 ###
 
